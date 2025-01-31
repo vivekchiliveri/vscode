@@ -1,0 +1,50 @@
+*{
+ margin: 0%;
+ padding: 0%;
+}
+body{
+  background-image: url(./taj\ hotel )  ;
+  background-attachment: fixed;
+  background-position: 1%;
+  background-size: cover;
+}
+
+.Registrationpage{
+  border-radius: 10%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 10vh;
+margin-left: 80vh;
+background-color: rgba(45, 46, 43, 0.342);
+width: 60vh;
+height: 80vh;
+margin-left: 65vh;
+margin-right: 20vh;
+text-align: center;
+color: aliceblue;
+
+
+
+}
+form input{
+  width: 30vh;
+  height: 4vh;
+  border-radius: 2px;
+
+ 
+}
+
+h1{
+  text-align: center;
+  background-color: rgb(252, 251, 251);
+  margin-top: 0%;
+  margin-bottom: 5vh;
+}
+h2{
+  margin-bottom: 3vh;
+  color: rgb(15, 15, 14);
+}
+h4{
+  color: aliceblue;
+}

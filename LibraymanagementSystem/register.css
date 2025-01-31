@@ -1,0 +1,57 @@
+body{
+  background-image: linear-gradient(to right, rgba(19, 18, 18, 0.5), rgba(34, 32, 31, 0.233)), url('register.webp');
+  background-size: cover;
+}
+.body{
+  display: flex;
+  /* background-color: rgb(45, 75, 65); */
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.register{
+  /* display: flex; */
+  margin-left: 40px;
+  margin-top: 12vh;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px 20px 20px;
+  height: 50vh;
+  width: 35vh;
+  background-color:rgba(239, 238, 234, 0.808);
+  border-radius: 8%;
+}
+input{
+background-size: cover;
+margin-left: 8px;
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 5vh;
+padding-right: 5vh;
+border-radius: 3vh;
+
+}
+
+#button{
+  background-color: rgb(235, 118, 68);
+  margin-left: 50px;
+}
+#button:hover{
+  cursor: pointer;
+  background-color: rgb(123, 203, 232);
+}
+h1{
+  margin-left: 540px;
+  color: rgb(145, 103, 48);
+}
+h2{
+  margin-left: 50px;
+  color: rgb(229, 97, 21);
+}
+h4{
+  margin-left: 16px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  color: rgb(2, 2, 2);
+}

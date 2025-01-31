@@ -1,0 +1,41 @@
+body{
+  background: linear-gradient(to right, #5ff5af, #feb47b, #6289d5, #333431);
+background-size: cover;
+}
+.body{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+justify-items: center;
+}
+h1{
+  margin-left: 40px;
+  font-size: 15vh;
+  color: rgb(241, 237, 233);
+}
+input{
+  padding: 2vh;
+  margin-left: 240px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: red;
+  color: aliceblue;
+  width: 150px;
+  border-radius: 3vh;
+}
+input:hover{
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.295);
+}
+.header{
+  color: aliceblue;
+  margin-left: 160vh;
+  padding: 5px;
+  padding-right: 10px;
+}
+a{
+  padding-right: 15px;
+  color: aliceblue;
+}

@@ -1,0 +1,85 @@
+body{
+  background-image:  linear-gradient(to right, rgba(19, 18, 18, 0.5), rgba(34, 32, 31, 0.5)),url(./home.webp);
+  justify-content: center;
+  background-size: cover;
+}
+.heading{
+  margin-left: 320px;
+  color: rgb(248, 248, 244);
+  font-size: 5vh;
+}
+.library{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.AddBook{
+  padding: 20px 20px 20px 20px;
+  height: 15vh;
+  width: 30vh;
+  background-color: rgba(15, 15, 15, 0.719);
+  border-radius: 8%;
+  
+}
+.search{
+  padding: 20px 20px 20px 20px;
+  height: 15vh;
+  width: 30vh;
+  background-color: rgba(15, 15, 15, 0.719);
+  border-radius: 8%;
+  
+}
+.Update{
+  padding: 20px 20px 20px 20px;
+  height: 15vh;
+  width: 30vh;
+  background-color: rgba(15, 15, 15, 0.719);
+  border-radius: 8%;
+  
+}
+.Remove{
+  padding: 20px 20px 20px 20px;
+  height: 15vh;
+  width: 30vh;
+  background-color: rgba(15, 15, 15, 0.719);
+  border-radius: 8%;
+  
+}
+.search-input{
+  /* border: none; */
+  border-radius: 10px;
+}
+input{
+  background-color: rgb(222, 157, 83);
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2vh;
+  margin-left: 50px;
+  border: none;
+
+}
+input:hover{
+  cursor: pointer;
+  background-color: rgb(237, 124, 124);
+}
+p{
+  color: aliceblue;
+}
+.header{
+  color: aliceblue;
+  margin-left: 160vh;
+  padding: 5px;
+  padding-right: 10px;
+}
+a{
+  padding-right: 15px;
+  color: aliceblue;
+}
+/* .search{
+  padding: 20px 20px 20px 20px;
+  height: 10vh;
+  width: 25vh;
+  background-color: rgba(15, 15, 15, 0.719);
+  border-radius: 8%;
+} */

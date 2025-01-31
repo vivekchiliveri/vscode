@@ -1,0 +1,31 @@
+.loginpage{
+  border-radius: 10%;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  margin-top: 20vh;
+  margin-left: 10vh;
+  background-color: rgba(225, 166, 39, 0.264);
+  width: 40vh;
+  height: 60vh;
+  margin-left: 40%;
+  margin-right: 20vh;
+  text-align: center;
+  color: aliceblue;
+  align-content: center;
+  /* background-image: url(./logo.jpg); */
+  
+  
+  
+}
+form input {
+  /* background-image: url(./logo.jpg); */
+  margin-top: 5vhvh;
+  justify-content: center;
+  align-content: center;
+
+}
+.logo{
+  padding-top: 2px;
+  margin-bottom: 5vh;
+}

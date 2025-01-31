@@ -1,0 +1,46 @@
+.home{
+  background-image: url(./header) ;
+  background-position: center;
+}
+.menu{
+  justify-content: space-evenly;
+  padding-left: 86vh;
+padding-top: 5vh;
+  /* background-color: rgb(217, 240, 150); */
+  height: 80vh;
+  word-spacing: 25px;
+  /* background-image: url(./header) ;
+  background-position: center; */
+  color: aliceblue;
+  
+}
+
+a{
+  color: rgb(246, 247, 248);
+  border: 2px;
+  border-color: black;
+  border-radius: 10px;
+  font-size: 3vh;
+}
+a:hover{
+  pointer-events: stroke;
+  color: rgb(247, 150, 6);
+}
+a.home{
+  background-color: aquamarine;
+}
+h1{
+  
+  padding-top: 2vh;
+  margin-top: 2vh;
+  padding-right: 15vh;
+  margin-right: 20vh;
+  font-size: 20vh;
+  font-weight: 500;
+  color: rgb(252, 255, 72);
+  text-shadow: 3%;
+  
+  
+  
+
+}

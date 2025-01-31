@@ -1,0 +1,54 @@
+body{
+  background-image: url(search.webp);
+  background-size: cover;
+}
+.body{
+  display: flex;
+  
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.add{
+  display: flex; 
+  margin-top: 18vh;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px 20px 20px;
+  height: 65vh;
+  width: 40vh;
+  background-color:rgba(251, 246, 246, 0.301);
+  border-radius: 8%;
+  margin-left: 67vh;
+
+}
+input{
+background-size: cover;
+/* background-size: cover; */
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 5vh;
+padding-right: 5vh;
+border-radius: 3vh;
+}
+input:hover{
+  cursor: pointer;
+  background-color: chocolate;
+}
+h1{
+  margin-top: 0%;
+}
+a{
+  color: rgb(239, 234, 234);
+}
+.header{
+  color: aliceblue;
+  margin-left: 160vh;
+  padding: 5px;
+  padding-right: 10px;
+}
+a{
+  padding-right: 15px;
+  color: aliceblue;
+}
